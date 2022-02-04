@@ -2,7 +2,7 @@
 
 <p>I'm a data scientist with a strong theoretical understanding of the inner workings of machine/deep learning algorithms and the underlying mathematics, and equipped with the best-practices for utilizing these algorithms to solve real-world problems. </p>
  
- ### What I know
+ ### I'm experienced in:
 - Classical Machine learning: regression, trees, K-NN, SVM, ensembles, K-means, PCA, etc.
 - Computer Vision: image classification, semantic segmentation, object detection using architechtures such as       ResNet, Inception, FCN, UNet, DeepLab, Faster RCNN, RetinaNet, and YOLO
 - Deployment using AWS
@@ -10,7 +10,7 @@
 - web scraping
 - building APIs
 
-### What I want to know (check resources below)
+### I'm currently learning (check resources below)
 - Transformers and their applications to NLP and computer vision
 - Object tracking using Yolo and deepsort
 
@@ -33,7 +33,7 @@
 <img align="left" alt="sklearn" width="70px" src="sklearn.png"  />
 <img align="left" alt="Tensorflow" width="26px" src="tensorflow.png"  />
 <img align="left" alt="pytorch" width="26px" src="pytorch.png"  />
-<img align="left" alt="huggingface" width="45px" src="huggingface.png"  />
+<img align="left" alt="huggingface" width="30px" src="huggingface.png"  />
 <img align="left" alt="aws" width="26px" src="aws.png"  />
 <img align="left" alt="d3js" width="26px" src="d3js.png"  />
 <img align="left" alt="firebase" width="26px" src="firebase.png"  />
@@ -42,7 +42,7 @@
 <img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
 <img align="left" alt="onnx" width="70px" src="onnx.png"  />
 <img align="left" alt="docker" width="40px" src="docker.png"  />
-<img align="left" alt="fastapi" width="70px" src="fastapi.png"  />
+<img align="left" alt="fastapi" width="70px" src="fastapi.png"  /> <br />
 
 <br />
 

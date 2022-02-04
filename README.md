@@ -26,28 +26,30 @@
 
 <img align="left" alt="java" width="26px" src="java.png"  />
 <img align="left" alt="python" width="26px" src="python.png"  />
-<img align="left" alt="numpy" width="45px" src="numpy.png"  />
-<img align="left" alt="pandas" width="45px" src="pandas.png"  />
-<img align="left" alt="matplotlib" width="45px" src="matplotlib.png"  />
-<img align="left" alt="seaborn" width="26px" src="seaborn.png"  />
-<img align="left" alt="sklearn" width="45px" src="sklearn.png"  />
-<img align="left" alt="Tensorflow" width="26px" src="tensorflow-icon.png"  />
+<img align="left" alt="numpy" width="70px" src="numpy.png"  />
+<img align="left" alt="pandas" width="70px" src="pandas.png"  />
+<img align="left" alt="matplotlib" width="70px" src="matplotlib.png"  />
+<img align="left" alt="seaborn" width="45px" src="seaborn.png"  />
+<img align="left" alt="sklearn" width="70px" src="sklearn.png"  />
+<img align="left" alt="Tensorflow" width="26px" src="tensorflow.png"  />
 <img align="left" alt="pytorch" width="26px" src="pytorch.png"  />
-<img align="left" alt="huggingface" width="26px" src="huggingface.png"  />
+<img align="left" alt="huggingface" width="45px" src="huggingface.png"  />
 <img align="left" alt="aws" width="26px" src="aws.png"  />
 <img align="left" alt="d3js" width="26px" src="d3js.png"  />
 <img align="left" alt="firebase" width="26px" src="firebase.png"  />
 <img align="left" alt="sql" width="26px" src="sql.png"  />
 <img align="left" alt="oracle" width="40px" src="oracle.png"  />
 <img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
-<img align="left" alt="onnx" width="26px" src="onnx.png"  />
-<img align="left" alt="docker" width="26px" src="docker.png"  />
-<img align="left" alt="fastapi" width="45px" src="fastapi.png"  />
+<img align="left" alt="onnx" width="70px" src="onnx.png"  />
+<img align="left" alt="docker" width="40px" src="docker.png"  />
+<img align="left" alt="fastapi" width="70px" src="fastapi.png"  />
 
 
 <br />
+<br />
 
 ### Resources
+
 - [Transformer illustrated](https://jalammar.github.io/illustrated-transformer/)
 - [Transformers from scratch](https://e2eml.school/transformers.html)
 - [Natural Language Processing with Transformers](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)

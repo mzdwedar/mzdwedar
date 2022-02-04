@@ -14,13 +14,13 @@
 - Transformers and their applications to NLP and computer vision
 - Object tracking using Yolo and deepsort
 
-### Connect with me:
+### Resources
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-[<img align="left" alt="https://www.linkedin.com/in/mzdwedar/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br>
+- [Transformer illustrated](https://jalammar.github.io/illustrated-transformer/)
+- [Transformers from scratch](https://e2eml.school/transformers.html)
+- [Natural Language Processing with Transformers](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
+- [The annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
+- [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624)
 
 ### Languages and Tools:
 
@@ -42,19 +42,19 @@
 <img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
 <img align="left" alt="onnx" width="70px" src="onnx.png"  />
 <img align="left" alt="docker" width="40px" src="docker.png"  />
-<img align="left" alt="fastapi" width="70px" src="fastapi.png"  /> 
+<img align="left" alt="fastapi" width="70px" src="fastapi.png"  />    
+
+<br>
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+
+[<img align="left" alt="https://www.linkedin.com/in/mzdwedar/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br>
 
-### Resources
-
-- [Transformer illustrated](https://jalammar.github.io/illustrated-transformer/)
-- [Transformers from scratch](https://e2eml.school/transformers.html)
-- [Natural Language Processing with Transformers](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
-- [The annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-- [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624)
-
-<br />
 <br />
 
 [website]: https://www.freelancer.com/u/mzdwedar

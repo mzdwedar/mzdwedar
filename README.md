@@ -27,17 +27,26 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="java" width="26px" src="java.png"  />
+<img align="left" alt="python" width="26px" src="python.png"  />
+<img align="left" alt="numpy" width="26px" src="numpy.png"  />
+<img align="left" alt="matplotlib" width="26px" src="matplotlib.png"  />
+<img align="left" alt="sklearn" width="26px" src="sklearn.png"  />
 <img align="left" alt="Tensorflow" width="26px" src="tensorflow-icon.png"  />
+<img align="left" alt="pytorch" width="26px" src="pytorch.png"  />
 <img align="left" alt="aws" width="26px" src="aws.png"  />
 <img align="left" alt="d3js" width="26px" src="d3js.png"  />
-<img align="left" alt="docker" width="26px" src="docker.png"  />
 <img align="left" alt="firebase" width="26px" src="firebase.png"  />
-<img align="left" alt="java" width="26px" src="java.png"  />
-<img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
-<img align="left" alt="numpy" width="26px" src="numpy.png"  />
-<img align="left" alt="oracle" width="26px" src="oracle.png"  />
-<img align="left" alt="python" width="26px" src="python.png"  />
 <img align="left" alt="sql" width="26px" src="sql.png"  />
+<img align="left" alt="oracle" width="26px" src="oracle.png"  />
+<img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
+<img align="left" alt="docker" width="26px" src="docker.png"  />
+<img align="left" alt="fastapi" width="26px" src="fastapi.png"  />
+
+
+
+
+
 
 <br />
 <br />

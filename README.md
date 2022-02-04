@@ -2,7 +2,7 @@
 
 <p>I'm a data scientist with a strong theoretical understanding of the inner workings of machine/deep learning algorithms and the underlying mathematics, and equipped with the best-practices for utilizing these algorithms to solve real-world problems. </p>
  
- ### I'm experienced in 
+ ### What I know
 - Classical Machine learning: regression, trees, K-NN, SVM, ensembles, K-means, PCA, etc.
 - Computer Vision: image classification, semantic segmentation, object detection using architechtures such as       ResNet, Inception, FCN, UNet, DeepLab, Faster RCNN, RetinaNet, and YOLO
 - Deployment using AWS
@@ -10,7 +10,7 @@
 - web scraping
 - building APIs
 
-### I'm currently learning (check resources below)
+### What I want to know (check resources below)
 - Transformers and their applications to NLP and computer vision
 - Object tracking using Yolo and deepsort
 

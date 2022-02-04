@@ -20,14 +20,14 @@
 
 [<img align="left" alt="https://www.linkedin.com/in/mzdwedar/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+<br>
 
 ### Languages and Tools:
 
 <img align="left" alt="java" width="26px" src="java.png"  />
 <img align="left" alt="python" width="26px" src="python.png"  />
-<img align="top" alt="numpy" width="100px" src="numpy.png"  />
-<img align="top" alt="pandas" width="100px" src="pandas.png"  />
+<img align="left" alt="numpy" width="100px" src="numpy.png"  />
+<img align="left" alt="pandas" width="100px" src="pandas.png"  />
 <img align="left" alt="matplotlib" width="100px" src="matplotlib.png"  />
 <img align="left" alt="seaborn" width="45px" src="seaborn.png"  />
 <img align="left" alt="sklearn" width="70px" src="sklearn.png"  />
@@ -42,11 +42,9 @@
 <img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
 <img align="left" alt="onnx" width="70px" src="onnx.png"  />
 <img align="left" alt="docker" width="40px" src="docker.png"  />
-<img align="right" alt="fastapi" width="70px" src="fastapi.png"  /> 
-<br />
+<img align="left" alt="fastapi" width="70px" src="fastapi.png"  /> 
 
-<br />
-<br />
+<br>
 
 ### Resources
 

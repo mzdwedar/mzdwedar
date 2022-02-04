@@ -26,8 +26,8 @@
 
 <img align="left" alt="java" width="26px" src="java.png"  />
 <img align="left" alt="python" width="26px" src="python.png"  />
-<img align="left" alt="numpy" width="100px" src="numpy.png"  />
-<img align="left" alt="pandas" width="100px" src="pandas.png"  />
+<img align="center" alt="numpy" width="100px" src="numpy.png"  />
+<img align="center" alt="pandas" width="100px" src="pandas.png"  />
 <img align="left" alt="matplotlib" width="100px" src="matplotlib.png"  />
 <img align="left" alt="seaborn" width="45px" src="seaborn.png"  />
 <img align="left" alt="sklearn" width="70px" src="sklearn.png"  />
@@ -36,13 +36,15 @@
 <img align="left" alt="huggingface" width="30px" src="huggingface.png"  />
 <img align="left" alt="aws" width="26px" src="aws.png"  />
 <img align="left" alt="d3js" width="26px" src="d3js.png"  />
+<br/>
 <img align="left" alt="firebase" width="26px" src="firebase.png"  />
 <img align="left" alt="sql" width="26px" src="sql.png"  />
 <img align="left" alt="oracle" width="40px" src="oracle.png"  />
 <img align="left" alt="kubernetes" width="26px" src="kubernetes.png"  />
 <img align="left" alt="onnx" width="70px" src="onnx.png"  />
 <img align="left" alt="docker" width="40px" src="docker.png"  />
-<img align="left" alt="fastapi" width="70px" src="fastapi.png"  /> <br />
+<img align="right" alt="fastapi" width="70px" src="fastapi.png"  /> 
+<br />
 
 <br />
 

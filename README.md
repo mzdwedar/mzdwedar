@@ -44,6 +44,7 @@
 <img align="left" alt="docker" width="26px" src="docker.png"  />
 <img align="left" alt="fastapi" width="45px" src="fastapi.png"  />
 
+
 <br />
 
 ### Resources

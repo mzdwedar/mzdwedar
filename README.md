@@ -26,9 +26,9 @@
 
 <img align="left" alt="java" width="26px" src="java.png"  />
 <img align="left" alt="python" width="26px" src="python.png"  />
-<img align="left" alt="numpy" width="70px" src="numpy.png"  />
-<img align="left" alt="pandas" width="70px" src="pandas.png"  />
-<img align="left" alt="matplotlib" width="70px" src="matplotlib.png"  />
+<img align="left" alt="numpy" width="100px" src="numpy.png"  />
+<img align="left" alt="pandas" width="100px" src="pandas.png"  />
+<img align="left" alt="matplotlib" width="100px" src="matplotlib.png"  />
 <img align="left" alt="seaborn" width="45px" src="seaborn.png"  />
 <img align="left" alt="sklearn" width="70px" src="sklearn.png"  />
 <img align="left" alt="Tensorflow" width="26px" src="tensorflow.png"  />
@@ -44,8 +44,6 @@
 <img align="left" alt="docker" width="40px" src="docker.png"  />
 <img align="left" alt="fastapi" width="70px" src="fastapi.png"  />
 
-
-<br />
 <br />
 
 ### Resources
@@ -55,6 +53,8 @@
 - [Natural Language Processing with Transformers](https://www.amazon.com/Natural-Language-Processing-Transformers-Applications/dp/1098103246)
 - [The annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 - [Attention Mechanisms in Computer Vision: A Survey](https://arxiv.org/abs/2111.07624)
+
+<br />
 <br />
 
 [website]: https://www.freelancer.com/u/mzdwedar
